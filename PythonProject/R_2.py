@@ -1,8 +1,5 @@
-
-
 def saludar_usuario(nombre):
     print("Hola", nombre)
-
 
 
 if __name__ == "__main__":
